@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Blog
 - [Qiita](https://qiita.com/hiyanger)
 - [Zenn](https://zenn.dev/hiyanger)
-- [iret.media（6本）](https://iret.media/author/j-hiyama)
+- [iret.media](https://iret.media/author/j-hiyama)
 
 ## Speak
 - [Speaker Deck](https://speakerdeck.com/hiyanger)
