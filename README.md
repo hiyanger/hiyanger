@@ -1,3 +1,9 @@
+## Role
+Cloud engineer（AWS）
+
+## Skills
+AWS、IaC（Terraoform）、CI/CD
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiyanger&layout=compact&theme=dracula)
 
 <!--
@@ -14,12 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Role
-Cloud engineer（AWS）
-
-## Skills
-AWS、IaC（Terraoform）、CI/CD
 
 ## Blog
 - [Qiita](https://qiita.com/hiyanger)
