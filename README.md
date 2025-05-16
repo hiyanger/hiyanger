@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Role
+Cloud engineer
+
+## Skills
+AWS、IaC（Terraoform）、CI/CD
+
 ## Blog
 - [Qiita](https://qiita.com/hiyanger)
 - [Zenn](https://zenn.dev/hiyanger)
