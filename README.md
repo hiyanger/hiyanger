@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - [iret.media](https://iret.media/author/j-hiyama)
 - [Speaker Deck](https://speakerdeck.com/hiyanger)
 
-## Certification
+## Certifications
 - [2024 Japan AWS Top Engineer](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-top-engineers/)
 - [2024-2025 AWS Community Builder](https://aws.amazon.com/jp/developer/community/community-builders/)
 - [2023-2024 AWS All Certifications](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-all-certifications-engineers/)
