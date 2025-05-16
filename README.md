@@ -21,12 +21,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Blog
+## Outputs
 - [Qiita](https://qiita.com/hiyanger)
 - [Zenn](https://zenn.dev/hiyanger)
 - [iret.media](https://iret.media/author/j-hiyama)
-
-## Speak
 - [Speaker Deck](https://speakerdeck.com/hiyanger)
 
 ## Certification
