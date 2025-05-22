@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 - [Zenn](https://zenn.dev/hiyanger)
 - [iret.media](https://iret.media/author/j-hiyama)
 - [Speaker Deck](https://speakerdeck.com/hiyanger)
+- [LAPRAS](https://speakerdeck.com/hiyanger)
+
 
 ## 👑 Certifications
 - [2024 Japan AWS Top Engineer](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-top-engineers/)
@@ -40,3 +42,5 @@ Here are some ideas to get you started:
 
 ## 📱 SNS
 - [X](https://x.com/hiyanger)
+- [Wantedly](https://www.wantedly.com/id/jun_h1yama)
+- [YOUTRUST](https://youtrust.jp/users/hiyanger)
