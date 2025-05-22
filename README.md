@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - [Zenn](https://zenn.dev/hiyanger)
 - [iret.media](https://iret.media/author/j-hiyama)
 - [Speaker Deck](https://speakerdeck.com/hiyanger)
-- [LAPRAS](https://speakerdeck.com/hiyanger)
+- [LAPRAS](https://lapras.com/public/ZPNS7XH)
 
 
 ## 👑 Certifications
