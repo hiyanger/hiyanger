@@ -4,9 +4,6 @@ Cloud engineer（AWS）
 ## 🛠️ Skills
 AWS、IaC（Terraoform）、CI/CD
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=hiyanger)
-
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiyanger&layout=compact&theme=dracula)
 
 <!--
