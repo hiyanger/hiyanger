@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 - [jaws 栃木支部](https://jawsug-tochigi.connpass.com)
 - [クラウド食堂](https://cloud-shokudo.connpass.com)
 - [栃木ゆる勉強会](https://tochigi-study.connpass.com)
+- [TechGYOZA](https://techgyoza.connpass.com/)
+
 
 ## 📱 SNS
 - [X](https://x.com/hiyanger)
