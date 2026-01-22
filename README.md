@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 -->
 
 ## 📝 Outputs
-- [Qiita](https://qiita.com/hiyanger)
 - [Zenn](https://zenn.dev/hiyanger)
+- [Qiita](https://qiita.com/hiyanger)
 - [Speaker Deck](https://speakerdeck.com/hiyanger)
 
 ## 👑 Certifications
@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 ## 🌏 Community management
 - [クラウド食堂](https://cloud-shokudo.connpass.com)
 - [TechGYOZA](https://techgyoza.connpass.com/)
-
 
 ## 📱 SNS
 - [X](https://x.com/hiyanger)
