@@ -1,5 +1,5 @@
 ## 👷‍♂️ Role
-Cloud engineer（AWS）
+SRE
 
 ## 🛠️ Skills
 AWS、IaC（Terraoform）、CI/CD
@@ -24,10 +24,7 @@ Here are some ideas to get you started:
 ## 📝 Outputs
 - [Qiita](https://qiita.com/hiyanger)
 - [Zenn](https://zenn.dev/hiyanger)
-- [iret.media](https://iret.media/author/j-hiyama)
 - [Speaker Deck](https://speakerdeck.com/hiyanger)
-- [LAPRAS](https://lapras.com/public/ZPNS7XH)
-
 
 ## 👑 Certifications
 - [2024-2025 Japan AWS Top Engineer](https://aws.amazon.com/jp/blogs/psa/2025-japan-aws-top-engineers/)
@@ -36,7 +33,6 @@ Here are some ideas to get you started:
 - [2025 HashiCorp Ambassador（Terraform）](https://www.credly.com/badges/5401454b-2df8-4a0f-8e9e-93f743c4a4b2)
 
 ## 🌏 Community management
-- [jaws 栃木支部](https://jawsug-tochigi.connpass.com)
 - [クラウド食堂](https://cloud-shokudo.connpass.com)
 - [栃木ゆる勉強会](https://tochigi-study.connpass.com)
 - [TechGYOZA](https://techgyoza.connpass.com/)
@@ -44,5 +40,3 @@ Here are some ideas to get you started:
 
 ## 📱 SNS
 - [X](https://x.com/hiyanger)
-- [Wantedly](https://www.wantedly.com/id/jun_h1yama)
-- [YOUTRUST](https://youtrust.jp/users/hiyanger)
