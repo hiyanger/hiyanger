@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 
 ## 🌏 Community management
 - [クラウド食堂](https://cloud-shokudo.connpass.com)
-- [栃木ゆる勉強会](https://tochigi-study.connpass.com)
 - [TechGYOZA](https://techgyoza.connpass.com/)
 
 
